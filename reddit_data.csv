@@ -1,0 +1,339 @@
+stock abbreviation,stock name,title,date,id,url,post text,upvote Ratio,comment number,text length,flesch_kincaid_grade,lexical_diversity,Sentiment (polarity):,Sentiment (subjectivity),Buy/Sell,Buy/Sell Price,Price same time next day,Delta,Good/Bad Trade
+$MSTR,Microstrategy Inc.,$MSTR / $MSTX bag holder,2024-11-26 17:20:56,1h0olph,https://i.redd.it/j1a5i3eqmb3e1.jpeg,"Just joined the ranks of a bunch of $MSTR / $MSTX bag holders.... 
+
+Fml",0.78,23,71,2.5,0.9285714285714286,0.0,0.0,0,381.9353942871094,0,0,Good
+$M,Macy's Inc,$M; Taking Advantage of Turkey Day,2024-11-26 14:50:14,1h0kyg2,https://i.redd.it/nfouf1kuva3e1.png,"Every year Macy's sponsors the massive Thanksgiving Day parade. If you look at the last several years, Macy's likes to increase its share price around November/December. 
+
+Now let's not forget that single individual that hid over 100 million dollars. Macy's pushed their earnings date back because of that. They just can't wait to share how many tendies they've been cooking after they give us a great parade
+
+TLDR; Macy's Thanksgiving Day Parade make $M pop off before their new 12/11 earnings date
+
+",0.84,3,501,7.3,0.8536585365853658,0.05124458874458875,0.34045815295815296,1,15.994999885559082,0,0,Good
+$CBL,Cbl & Associated Properties,"$CBL: The Shopping REIT that Screws Banks and Has 2-3x Upside to Comps
+",2024-11-25 23:05:07,1h031g7,https://www.reddit.com/r/wallstreetbets/comments/1h031g7/cbl_the_shopping_reit_that_screws_banks_and_has/,"***TL;DR at Bottom for my ADHD brethren.***
+
+CBL is playing 4D chess in the retail REIT game. Unlike the high majority retail REITS I’ve seen, it has non-recourse loans. What does that mean? It means that if a property isn’t pulling its weight, they just toss the keys back to the lender and walk away. To simplify:
+
+1. CBL buys a property with loans (like a mortgage)
+2. Property works out - CBL wins
+3. Property doesn’t work out - CBL can simply walk away and the bank takes the property, but ***cannot go after other assets!*** CBL only loses what they put in (analogous to down payment... not a huge L)
+
+This is combined with some excellent operational performance compared with peers. Depending on what comp you use, it seems like CBL could fairly be 2-3x higher in stock price. It has **better** operating metrics and ROIC:
+
+https://preview.redd.it/cpx617lh763e1.png?width=1286&format=png&auto=webp&s=119457849d20a7ace07d57e732056d0040ab4f46
+
+*So, if it’s so great, who owns it?*
+
+Well, there’s 64.5% insider ownership… this is insanely high so management and insiders like Oaktree (Howard Marks) think it looks good. But this has a side effect that is negative for exposure: it also makes the float low, so institutions can’t easily buy in. But to solve this problem, CBL is using its 17% cash flow yield to buy back shares. They've nuked 8% of the float in buybacks this past year which means there is significant upward buying pressure. 
+
+So essentially, this company has emerged from distress having offloaded shitty properties, and is now printing cash, buying back shares, and bullying lenders. There are several catalysts on the near horizon:
+
+1. Lowered interest rates are pure fuel for this company, so if the economy shows softness, which it has, rates will come down even more and help it.
+2. The company recently has had great momentum (+10% in past month) and this indicates more and more interest.
+3. New buybacks likely will be announced at next earnings in Feb
+
+*Here’s what makes it especially interesting. As far as I can tell, sh-rts were fairly lazy and just thought:*
+
+“Hmm, this is some random shopping mall REIT, hurr durr let’s sell it. Plus, it emerged from bankruptcy, it must have had bad performance… yep hurr durr” 
+
+This has led to 16% SI which is very significant for this sector.
+
+If you are generally concerned with this play, I would recommend considering a pair trade by shorting one of the other, lesser performing REITs, which should get rid of most sector risk. Then you sit around and wait. Management is insanely aligned with you, the company is on fire, and it’s going to get even better if rates lower. In the meantime, you enjoy cash being thrown off and shares being bought back.
+
+I bought calls that expire after the next FOMC, which should be a good catalyst if they lower rates. I’ve been banking so far:
+
+https://preview.redd.it/qmwyyi1m663e1.png?width=504&format=png&auto=webp&s=12d8730cb9194671cf0245e1409a13058439623f
+
+TL;DR: $CBL is the ultimate REIT bad boy: buys back shares, pockets cash, and flips off lenders. Dirt cheap and sellers are offsides.",0.94,8,3109,6.7,0.6370808678500987,0.11019369288119289,0.5166438792688793,1,30.790000915527344,0,0,Good
+$MSTR,Microstrategy Inc.,$MARA DD - The MaraStrategy 💊,2024-11-24 21:20:12,1gz8ajy,https://www.reddit.com/r/wallstreetbets/comments/1gz8ajy/mara_dd_the_marastrategy/,"📢Preface
+
+Disclaimer: I use a cringe amount of emoji 🫣 also the following is not not financial advice. If you lose money that's too bad, you gain a life lesson.
+
+Illiterate? => Scroll to the bottom, follow instructions 👇
+
+Disclosure: As of Nov 22nd I have \~8k in various $MARA calls + some additional funds to buy $MARA stock on dips. I will instantly buy more if Fred Thiel keeps employing the ""MaraStrategy""
+
+Most of this DD focuses on $MARA compared to $MSTR, I compared multiple tickers before determining $MARA was the best play.
+
+With that out of the way, lets dive into the always sunny bull case for $MARA  
+\---
+
+💊MaraStrategy
+
+For this section please humor me by assuming it is near impossible for $BTC to go down and it just continues going up. Think: 'sToNkS oNlY gO uP' type shit 😌
+
+Thanks to the pioneers and investors in MicroStrategy an asymmetrical opportunity has presented itself. $MARA or Marathon Digital Holdings mines bitcoin and holds bitcoin, a shit-ton of it. In fact its the largest mining company by market cap with the largest $BTC holdings after $MSTR.
+
+The ""MaraStrategy"" (codename: 💊) is an ambitious prospect of acquiring, holding and utilizing $BTC. Basically borrowing money against its holdings to buy $BTC and in turn providing that investment opportunity to its shareholders. $MSTR CEO Michael Saylor has derived this creative business model that is pushing both industry and the world at large into securing $BTC holdings. A man like that is hard to find but I can't get him off my mind, highly recommend listening to his vision for bitcoin from interviews on youtube.
+
+$MARA happens to be in the best position to replicate what $MSTR is doing.  
+\- They have plenty of expertise and experience within the sector.  
+\- A forward thinking CEO (s/o Fred👋) who has already began executing the MicroStrategy model.  
+\- One of the strongest mining operations.  
+\- Fresh infrastructure investment prepped for halving.  
+\- A growing reputation of HODLing $BTC.  
+
+So why not just buy $MSTR? ""They were first!"" They will come out on top... right? Yes and no. They are currently utilizing their $BTC holdings better than anyone else. However, the $BTC value per share would be reduced if everyone just kept buying in, driving it higher as shares are diluted. $MSTR still has to pay their ""debts"" over time (which is crucial because $BTC takes time to go up \[I'm simplifying this slightly\]). Plus their option premiums are pricey 😤
+
+We are starting to see other companies switching from purely fiat currency to diversified holdings with $BTC, daily.
+
+To be clear I am not saying $MSTR is done running at all. My conviction is simply that $MARA presents an asymmetrical opportunity to get (fuck you) money from (irresponsible) option positions because it is an early adopter of the same strategy and is currently wildly undervalued by comparison 🤑
+
+Hopefully you kept in mind what I said about $BTC not going down, it helps understand the premise.  
+Also its true (facts no cap on god frfr), $BTC is just going to keep rising, its inevitable. Although if it has a big dipperino all this goes to shit... but its a bull market so we're throwing caution to the wind 🙃  
+\---
+
+🤯Catalysts
+
+If I can ask you to only read and consider one of these, really have a deep think 🧠 on the first one, the rest are bonuses:
+
+₿itcoin - I was a skeptic years ago, now adoption is imminent. Bitcoin is the world's reserve currency. The biggest catalyst of all is the value of $BTC and the fact it's being adopted by EVERY person, EVERY business and EVERY country. The people drove the companies to invest and the companies are driving the countries to invest. Read it again. It's a rich man's world and they are going to want to ensure their wealth is secured. Without getting into the weeds you have to acknowledge fiat currency is inferior in some ways. Bitcoin's monetary value fluctuates, its use-cases expand but fundamentally its societal value is static and has remained intact since manifestation. No one knows what price $BTC is going to but I bet my dick it's much higher than 100k 🚀
+
+Continued aggressive purchasing of $BTC, the sooner the better. Fred Theil needs to show he's committed to following the MaraStrategy model. Then he needs to utilize the holdings to purchase against for more $BTC and to expand operations because the main business needs to also benefit from the increased holding for shareholder value.
+
+Investors flooding in from both retail and institutional have been a huge driving factor of bitcoins positive price action. It is easier to access bitcoin now because you don't have to directly buy $BTC, $MSTR, $IBIT and now $MARA give simple, cheap and liquid ways to diversify in $BTC as fiat currency loses some ""market share"" to Bitcoin.
+
+Bitcoin commonly held by public companies/governments like the transition from paper to software it is undoubtedly going to be a critical investment in the future and holding out means losing out. Especially for public companies where cash holdings are scrutinized, do you really believe undiversified cash reserves are going to remain competitive? Chew on this, $BTC has increased in value as fiat currencies are depreciating and we have seen $MSTR has been outperforming a majority of companies, less than a year ago it was valued at less than 10B now its valued 10x higher at nearly 100B, they have 33B in $BTC alone. This isn't some small cap ssq run up, it's leveraged to the tits 🫦 but its achieving incredible value.
+
+Infinite Money Glitch 🤯 $BTC goes up, which means $MARA's holdings go up, profits per coin from mining goes up, stock goes up, allows them to buy more $BTC, $BTC goes up ♻️ $MARA has the perfect supporting business for this they are literally PRINTING MONEY, MONEY, MONEY, must be funny.
+
+There is a critical mass where companies and countries all start jumping in, buying $BTC and that causes $BTC to go fucking parabolic and $MARA to go marabolic -- its about to be a goddamn gold rush and picks ⛏️ are on sale.
+
+Small positives but worth noting  
+\- Mining stocks are finally catching up to $BTC giving some extra momentum and volume  
+\- China does the most mining in the world and its courts just confirmed $BTC is property and therefore is now legal for cities to own.  
+\- With all Crypto rising $MARA can also mine other coins if it makes sense, they have pivoted before to coins providing better financial value.  
+\- Saylor just tweeted ""$MARA is a company on the #Bitcoin Standard."" We have Daddy's approval 😏  
+ \---
+
+🤓Numbers
+
+I had break my 🚫 no math on weekends rule to write this, ain't it sad?
+
+I am only going to go over $MARA compared to $MSTR, they have the most bitcoins and $MSTR is $MARA's biggest competitor. Numbers are from Nov 21st, assume a $BTC value of 98k. Premium calculations are taken from u/Jazzlike_Record_8915 on Reddit, they obviously fluctuate daily but I am just using them to illustrate a point.
+
+While the value of $MSTR is derived 99% from its $BTC holdings essentially making it just a proxy, $MARA has an operational business valued at $3B so lets factor that in to calculate the premium paid per Bitcoin.
+
+Holdings Value (Bitcoin):  
+\- $MARA $3.191B - $MSTR $32.457B  
+   
+Gross Equity (Operating Company Value):  
+\- $MARA $6.391B - $MSTR $32.957B  
+   
+Net Equity (After Debt):  
+\- $MARA $4.972B - $MSTR 24B  
+   
+Market Cap:  
+\- $MARA $7.92B - $MSTR $117B  
+   
+Premium per share:  
+\- $MARA 1.59x - $MSTR 4.87x  
+   
+Implied price per $BTC  
+\- $MARA $156k - $MSTR $477k
+
+🤔 156k vs 477k per $BTC
+
+Ahaaaaahh! Do you like paying a 3x higher premium? I mean that shits just gonna keep inflating but my boy Fred, over at Marathon Digital Holdings, he's putting his business to work.
+
+Last report states $MARA mined 717 $BTC in Oct, thats > 23 a day and \~8.6k $BTC a year. If they didn't purchase a single bitcoin for a year their holding would still grow 20% from mining alone 🌱
+
+Value wise there is no doubt $MARA > $MSTR.  
+\---
+
+📊Technical Analysis
+
+The charts look fucking glorious, full on 🐂ish, every chart in the market is pointing to $BTC rising. I only know how to do bargain bin TA for short term moves, check this guy out for the yearly picture, hes a freaking 🧙‍♂️ at calling movement before it happens.  
+[https://youtu.be/did1gn5LR0M?si=mApqSf4VrLcte2JK&t=518](https://youtu.be/did1gn5LR0M?si=mApqSf4VrLcte2JK&t=518)  
+In his latest $MARA analysis he notes it to be incredibly bullish as it breaks above the current level ($24) toward $41 and if it can reach that it has a chance to really run ($100+), only 6 mins long and very thorough.  
+\---
+
+😮‍💨Conclusion
+
+$MARA so hot right now 🥵
+
+My apologies if the DD was a bit cooked, between the Twisted Teas and my self diagnosed ADHD, shit took a lot more time than I expected but it was worth it. If you want a better DD look at the $MSTR ones and apply the thesis, same same. Also I hand wrote this myself, no chatgpt, the least you could do is buy the stock or leave a fuckin' comment eh 🫵🧐  
+\---
+
+✊How to Play - Buy, Hold, Repeat.
+
+In my dreams I have a plan, my conviction is that $MARA hits at least $120 in 2025, but I'm not stopping there.  
+You can try swing trading this shit but the moves will happen fast and sometimes in the pre-market, I think B&H is better.
+
+Plays ordered by highest profit potential:  
+\- 💎Buy options now, make the maximum on degenerate bets, rinse, repeat, reinvest - 20x your portfolio.  
+\- 💰Wait until $MARA starts deviating more from $MSTR and other mining companies, buy stock & 1 month out options and keep rolling profits into shares.  
+\- 💵Buy stock now, take 25% out every time it doubles: $50, $75, $100, $125  
+\- 🤡Wait until its too late.  
+\---
+
+Life is short, lets make enough money now so we can spend the rest of it on our terms, I wouldn't have to work at all, I'd fool around and have a ball",0.85,176,9872,9.9,0.4947429906542056,0.09741373678873676,0.49524304336804326,1,425.06988525390625,0,0,Good
+$MSTR,Microstrategy Inc.,$MSTR / $MSTX bag holder,2024-11-26 17:20:56,1h0olph,https://i.redd.it/j1a5i3eqmb3e1.jpeg,"Just joined the ranks of a bunch of $MSTR / $MSTX bag holders.... 
+
+Fml",0.77,23,71,2.5,0.9285714285714286,0.0,0.0,0,381.9353942871094,0,0,Good
+$M,Macy's Inc,$M; Taking Advantage of Turkey Day,2024-11-26 14:50:14,1h0kyg2,https://i.redd.it/nfouf1kuva3e1.png,"Every year Macy's sponsors the massive Thanksgiving Day parade. If you look at the last several years, Macy's likes to increase its share price around November/December. 
+
+Now let's not forget that single individual that hid over 100 million dollars. Macy's pushed their earnings date back because of that. They just can't wait to share how many tendies they've been cooking after they give us a great parade
+
+TLDR; Macy's Thanksgiving Day Parade make $M pop off before their new 12/11 earnings date
+
+",0.87,3,501,7.3,0.8536585365853658,0.05124458874458875,0.34045815295815296,1,15.994999885559082,0,0,Good
+$CBL,Cbl & Associated Properties,"$CBL: The Shopping REIT that Screws Banks and Has 2-3x Upside to Comps
+",2024-11-25 23:05:07,1h031g7,https://www.reddit.com/r/wallstreetbets/comments/1h031g7/cbl_the_shopping_reit_that_screws_banks_and_has/,"***TL;DR at Bottom for my ADHD brethren.***
+
+CBL is playing 4D chess in the retail REIT game. Unlike the high majority retail REITS I’ve seen, it has non-recourse loans. What does that mean? It means that if a property isn’t pulling its weight, they just toss the keys back to the lender and walk away. To simplify:
+
+1. CBL buys a property with loans (like a mortgage)
+2. Property works out - CBL wins
+3. Property doesn’t work out - CBL can simply walk away and the bank takes the property, but ***cannot go after other assets!*** CBL only loses what they put in (analogous to down payment... not a huge L)
+
+This is combined with some excellent operational performance compared with peers. Depending on what comp you use, it seems like CBL could fairly be 2-3x higher in stock price. It has **better** operating metrics and ROIC:
+
+https://preview.redd.it/cpx617lh763e1.png?width=1286&format=png&auto=webp&s=119457849d20a7ace07d57e732056d0040ab4f46
+
+*So, if it’s so great, who owns it?*
+
+Well, there’s 64.5% insider ownership… this is insanely high so management and insiders like Oaktree (Howard Marks) think it looks good. But this has a side effect that is negative for exposure: it also makes the float low, so institutions can’t easily buy in. But to solve this problem, CBL is using its 17% cash flow yield to buy back shares. They've nuked 8% of the float in buybacks this past year which means there is significant upward buying pressure. 
+
+So essentially, this company has emerged from distress having offloaded shitty properties, and is now printing cash, buying back shares, and bullying lenders. There are several catalysts on the near horizon:
+
+1. Lowered interest rates are pure fuel for this company, so if the economy shows softness, which it has, rates will come down even more and help it.
+2. The company recently has had great momentum (+10% in past month) and this indicates more and more interest.
+3. New buybacks likely will be announced at next earnings in Feb
+
+*Here’s what makes it especially interesting. As far as I can tell, sh-rts were fairly lazy and just thought:*
+
+“Hmm, this is some random shopping mall REIT, hurr durr let’s sell it. Plus, it emerged from bankruptcy, it must have had bad performance… yep hurr durr” 
+
+This has led to 16% SI which is very significant for this sector.
+
+If you are generally concerned with this play, I would recommend considering a pair trade by shorting one of the other, lesser performing REITs, which should get rid of most sector risk. Then you sit around and wait. Management is insanely aligned with you, the company is on fire, and it’s going to get even better if rates lower. In the meantime, you enjoy cash being thrown off and shares being bought back.
+
+I bought calls that expire after the next FOMC, which should be a good catalyst if they lower rates. I’ve been banking so far:
+
+https://preview.redd.it/qmwyyi1m663e1.png?width=504&format=png&auto=webp&s=12d8730cb9194671cf0245e1409a13058439623f
+
+TL;DR: $CBL is the ultimate REIT bad boy: buys back shares, pockets cash, and flips off lenders. Dirt cheap and sellers are offsides.",0.95,8,3109,6.7,0.6370808678500987,0.11019369288119289,0.5166438792688793,1,30.790000915527344,0,0,Good
+$MSTR,Microstrategy Inc.,$MARA DD - The MaraStrategy 💊,2024-11-24 21:20:12,1gz8ajy,https://www.reddit.com/r/wallstreetbets/comments/1gz8ajy/mara_dd_the_marastrategy/,"📢Preface
+
+Disclaimer: I use a cringe amount of emoji 🫣 also the following is not not financial advice. If you lose money that's too bad, you gain a life lesson.
+
+Illiterate? => Scroll to the bottom, follow instructions 👇
+
+Disclosure: As of Nov 22nd I have \~8k in various $MARA calls + some additional funds to buy $MARA stock on dips. I will instantly buy more if Fred Thiel keeps employing the ""MaraStrategy""
+
+Most of this DD focuses on $MARA compared to $MSTR, I compared multiple tickers before determining $MARA was the best play.
+
+With that out of the way, lets dive into the always sunny bull case for $MARA  
+\---
+
+💊MaraStrategy
+
+For this section please humor me by assuming it is near impossible for $BTC to go down and it just continues going up. Think: 'sToNkS oNlY gO uP' type shit 😌
+
+Thanks to the pioneers and investors in MicroStrategy an asymmetrical opportunity has presented itself. $MARA or Marathon Digital Holdings mines bitcoin and holds bitcoin, a shit-ton of it. In fact its the largest mining company by market cap with the largest $BTC holdings after $MSTR.
+
+The ""MaraStrategy"" (codename: 💊) is an ambitious prospect of acquiring, holding and utilizing $BTC. Basically borrowing money against its holdings to buy $BTC and in turn providing that investment opportunity to its shareholders. $MSTR CEO Michael Saylor has derived this creative business model that is pushing both industry and the world at large into securing $BTC holdings. A man like that is hard to find but I can't get him off my mind, highly recommend listening to his vision for bitcoin from interviews on youtube.
+
+$MARA happens to be in the best position to replicate what $MSTR is doing.  
+\- They have plenty of expertise and experience within the sector.  
+\- A forward thinking CEO (s/o Fred👋) who has already began executing the MicroStrategy model.  
+\- One of the strongest mining operations.  
+\- Fresh infrastructure investment prepped for halving.  
+\- A growing reputation of HODLing $BTC.  
+
+So why not just buy $MSTR? ""They were first!"" They will come out on top... right? Yes and no. They are currently utilizing their $BTC holdings better than anyone else. However, the $BTC value per share would be reduced if everyone just kept buying in, driving it higher as shares are diluted. $MSTR still has to pay their ""debts"" over time (which is crucial because $BTC takes time to go up \[I'm simplifying this slightly\]). Plus their option premiums are pricey 😤
+
+We are starting to see other companies switching from purely fiat currency to diversified holdings with $BTC, daily.
+
+To be clear I am not saying $MSTR is done running at all. My conviction is simply that $MARA presents an asymmetrical opportunity to get (fuck you) money from (irresponsible) option positions because it is an early adopter of the same strategy and is currently wildly undervalued by comparison 🤑
+
+Hopefully you kept in mind what I said about $BTC not going down, it helps understand the premise.  
+Also its true (facts no cap on god frfr), $BTC is just going to keep rising, its inevitable. Although if it has a big dipperino all this goes to shit... but its a bull market so we're throwing caution to the wind 🙃  
+\---
+
+🤯Catalysts
+
+If I can ask you to only read and consider one of these, really have a deep think 🧠 on the first one, the rest are bonuses:
+
+₿itcoin - I was a skeptic years ago, now adoption is imminent. Bitcoin is the world's reserve currency. The biggest catalyst of all is the value of $BTC and the fact it's being adopted by EVERY person, EVERY business and EVERY country. The people drove the companies to invest and the companies are driving the countries to invest. Read it again. It's a rich man's world and they are going to want to ensure their wealth is secured. Without getting into the weeds you have to acknowledge fiat currency is inferior in some ways. Bitcoin's monetary value fluctuates, its use-cases expand but fundamentally its societal value is static and has remained intact since manifestation. No one knows what price $BTC is going to but I bet my dick it's much higher than 100k 🚀
+
+Continued aggressive purchasing of $BTC, the sooner the better. Fred Theil needs to show he's committed to following the MaraStrategy model. Then he needs to utilize the holdings to purchase against for more $BTC and to expand operations because the main business needs to also benefit from the increased holding for shareholder value.
+
+Investors flooding in from both retail and institutional have been a huge driving factor of bitcoins positive price action. It is easier to access bitcoin now because you don't have to directly buy $BTC, $MSTR, $IBIT and now $MARA give simple, cheap and liquid ways to diversify in $BTC as fiat currency loses some ""market share"" to Bitcoin.
+
+Bitcoin commonly held by public companies/governments like the transition from paper to software it is undoubtedly going to be a critical investment in the future and holding out means losing out. Especially for public companies where cash holdings are scrutinized, do you really believe undiversified cash reserves are going to remain competitive? Chew on this, $BTC has increased in value as fiat currencies are depreciating and we have seen $MSTR has been outperforming a majority of companies, less than a year ago it was valued at less than 10B now its valued 10x higher at nearly 100B, they have 33B in $BTC alone. This isn't some small cap ssq run up, it's leveraged to the tits 🫦 but its achieving incredible value.
+
+Infinite Money Glitch 🤯 $BTC goes up, which means $MARA's holdings go up, profits per coin from mining goes up, stock goes up, allows them to buy more $BTC, $BTC goes up ♻️ $MARA has the perfect supporting business for this they are literally PRINTING MONEY, MONEY, MONEY, must be funny.
+
+There is a critical mass where companies and countries all start jumping in, buying $BTC and that causes $BTC to go fucking parabolic and $MARA to go marabolic -- its about to be a goddamn gold rush and picks ⛏️ are on sale.
+
+Small positives but worth noting  
+\- Mining stocks are finally catching up to $BTC giving some extra momentum and volume  
+\- China does the most mining in the world and its courts just confirmed $BTC is property and therefore is now legal for cities to own.  
+\- With all Crypto rising $MARA can also mine other coins if it makes sense, they have pivoted before to coins providing better financial value.  
+\- Saylor just tweeted ""$MARA is a company on the #Bitcoin Standard."" We have Daddy's approval 😏  
+ \---
+
+🤓Numbers
+
+I had break my 🚫 no math on weekends rule to write this, ain't it sad?
+
+I am only going to go over $MARA compared to $MSTR, they have the most bitcoins and $MSTR is $MARA's biggest competitor. Numbers are from Nov 21st, assume a $BTC value of 98k. Premium calculations are taken from u/Jazzlike_Record_8915 on Reddit, they obviously fluctuate daily but I am just using them to illustrate a point.
+
+While the value of $MSTR is derived 99% from its $BTC holdings essentially making it just a proxy, $MARA has an operational business valued at $3B so lets factor that in to calculate the premium paid per Bitcoin.
+
+Holdings Value (Bitcoin):  
+\- $MARA $3.191B - $MSTR $32.457B  
+   
+Gross Equity (Operating Company Value):  
+\- $MARA $6.391B - $MSTR $32.957B  
+   
+Net Equity (After Debt):  
+\- $MARA $4.972B - $MSTR 24B  
+   
+Market Cap:  
+\- $MARA $7.92B - $MSTR $117B  
+   
+Premium per share:  
+\- $MARA 1.59x - $MSTR 4.87x  
+   
+Implied price per $BTC  
+\- $MARA $156k - $MSTR $477k
+
+🤔 156k vs 477k per $BTC
+
+Ahaaaaahh! Do you like paying a 3x higher premium? I mean that shits just gonna keep inflating but my boy Fred, over at Marathon Digital Holdings, he's putting his business to work.
+
+Last report states $MARA mined 717 $BTC in Oct, thats > 23 a day and \~8.6k $BTC a year. If they didn't purchase a single bitcoin for a year their holding would still grow 20% from mining alone 🌱
+
+Value wise there is no doubt $MARA > $MSTR.  
+\---
+
+📊Technical Analysis
+
+The charts look fucking glorious, full on 🐂ish, every chart in the market is pointing to $BTC rising. I only know how to do bargain bin TA for short term moves, check this guy out for the yearly picture, hes a freaking 🧙‍♂️ at calling movement before it happens.  
+[https://youtu.be/did1gn5LR0M?si=mApqSf4VrLcte2JK&t=518](https://youtu.be/did1gn5LR0M?si=mApqSf4VrLcte2JK&t=518)  
+In his latest $MARA analysis he notes it to be incredibly bullish as it breaks above the current level ($24) toward $41 and if it can reach that it has a chance to really run ($100+), only 6 mins long and very thorough.  
+\---
+
+😮‍💨Conclusion
+
+$MARA so hot right now 🥵
+
+My apologies if the DD was a bit cooked, between the Twisted Teas and my self diagnosed ADHD, shit took a lot more time than I expected but it was worth it. If you want a better DD look at the $MSTR ones and apply the thesis, same same. Also I hand wrote this myself, no chatgpt, the least you could do is buy the stock or leave a fuckin' comment eh 🫵🧐  
+\---
+
+✊How to Play - Buy, Hold, Repeat.
+
+In my dreams I have a plan, my conviction is that $MARA hits at least $120 in 2025, but I'm not stopping there.  
+You can try swing trading this shit but the moves will happen fast and sometimes in the pre-market, I think B&H is better.
+
+Plays ordered by highest profit potential:  
+\- 💎Buy options now, make the maximum on degenerate bets, rinse, repeat, reinvest - 20x your portfolio.  
+\- 💰Wait until $MARA starts deviating more from $MSTR and other mining companies, buy stock & 1 month out options and keep rolling profits into shares.  
+\- 💵Buy stock now, take 25% out every time it doubles: $50, $75, $100, $125  
+\- 🤡Wait until its too late.  
+\---
+
+Life is short, lets make enough money now so we can spend the rest of it on our terms, I wouldn't have to work at all, I'd fool around and have a ball",0.85,176,9872,9.9,0.4947429906542056,0.09741373678873676,0.49524304336804326,1,425.06988525390625,0,0,Good
